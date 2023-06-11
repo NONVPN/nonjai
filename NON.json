@@ -44,19 +44,9 @@
 
 {
 
-         "name": "FREE-SG-05-TRUE",
+         "name": "VIP-AV1-AIS",
 
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
-
-      }
-
-,
-
-{
-
-         "name": "VIP-TH-DTAC",
-
-         "url": "https://www.facebook.com/profile.php?id=100055327351471&mibextid=ZbWKwL"
+         "url": "https://raw.githubusercontent.com/NONVPN/nonjai/main/AIS.ovpn"
 
       }
 
@@ -64,9 +54,19 @@
 
 {
 
-         "name": "VIP-AV1-TRUE+DTAC",
+         "name": "VIP-AV1-DTAC",
 
-         "url": "https://raw.githubusercontent.com/NONVPN/nonjai/main/NON%20VPN.ovpn"
+         "url": "https://raw.githubusercontent.com/NONVPN/nonjai/main/DTAC.ovpn"
+
+      }
+
+,
+
+{
+
+         "name": "VIP-AV1-TRUE",
+
+         "url": "https://raw.githubusercontent.com/NONVPN/nonjai/main/TRUE.ovpn"
 
       }
 
@@ -98,6 +98,6 @@ vip วันละ 1 บาท
 
 "title":"New Update File" ,
 
-   "version":1
+   "version":2
 
 }
